@@ -1,0 +1,13 @@
+{
+    "name": "searchword",
+    "description": "A collection of ideas for Degoog",
+    "repo-image": "https://avatars.githubusercontent.com/u/61028241?s=400&u=10fe58f4f8fefeccc1dffac7d6658e208e57fa0b&v=4",
+    "author": "rootword",
+    "engines": [
+      {
+        "path": "engines/rawweb",
+        "name": "Rawweb",
+        "description": "Adds the Rawweb search engine to degoog and adds a new category called Indie.",
+        "version": "1.0.0"
+      },
+}
